@@ -1,8 +1,5 @@
 package addTwoNumbers;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
